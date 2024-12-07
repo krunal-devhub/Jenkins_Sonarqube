@@ -1,2 +1,2 @@
 FROM nginx
-COPY . /usr/share/nginx/html/Mediplus/mediplus-lite
+COPY . /usr/share/nginx/html/
